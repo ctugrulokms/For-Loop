@@ -1,0 +1,15 @@
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/bin/Debug/net6.0/for-loop
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/bin/Debug/net6.0/for-loop.deps.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/bin/Debug/net6.0/for-loop.runtimeconfig.json
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/bin/Debug/net6.0/for-loop.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/bin/Debug/net6.0/ref/for-loop.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/bin/Debug/net6.0/for-loop.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/for-loop.csproj.AssemblyReference.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/for-loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/for-loop.AssemblyInfoInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/for-loop.AssemblyInfo.cs
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/for-loop.csproj.CoreCompileInputs.cache
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/for-loop.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/ref/for-loop.dll
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/for-loop.pdb
+/Users/Tugrul/Desktop/Repositories/PatikaDev/C#101/for-loop/obj/Debug/net6.0/for-loop.genruntimeconfig.cache
